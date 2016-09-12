@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'netminoicons';
+    src: url('netminoicons.eot');
+    src: url('netminoicons.eot?#iefix') format('embedded-opentype'),
+         url('netminoicons.woff2') format('woff2'),
+         url('netminoicons.woff') format('woff'),
+         url('netminoicons.ttf') format('truetype'),
+         url('netminoicons.svg#netminoicons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
