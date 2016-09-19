@@ -1,14 +1,9 @@
 @charset "UTF-8";
-/*!
- *  Font Awesome 4.6.3 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */
-/* FONT PATH
- * -------------------------- */
+/* FONT PATH*/
 @font-face {
   font-family: 'NetminoIcons';
-  src: url("../fonts/NetminoIcons.eot?v=4.6.3+");
-  src: url("../fonts/NetminoIcons.eot?#iefix&v=4.6.3+") format("embedded-opentype"), url("../fonts/NetminoIcons.woff2?v=4.6.3+") format("woff2"), url("../fonts/NetminoIcons.woff?v=4.6.3+") format("woff"), url("../fonts/NetminoIcons.ttf?v=4.6.3+") format("truetype"), url("../fonts/NetminoIcons.svg?v=4.6.3+#NetminoIcons") format("svg");
+  src: url("../fonts/NetminoIcons.eot?v=1");
+  src: url("../fonts/NetminoIcons.eot?#iefix&v=1") format("embedded-opentype"), url("../fonts/NetminoIcons.woff2?v=1") format("woff2"), url("../fonts/NetminoIcons.woff?v=1") format("woff"), url("../fonts/NetminoIcons.ttf?v=1") format("truetype"), url("../fonts/NetminoIcons.svg?v=1#NetminoIcons") format("svg");
   font-weight: normal;
   font-style: normal; }
 .ni {
@@ -19,7 +14,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-/* makes the font 33% larger relative to the icon container */
 .ni-lg {
   font-size: 1.33333em;
   line-height: 0.75em;
@@ -133,8 +127,6 @@
 .ni-inverse {
   color: #fff; }
 
-/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-   readers do not read off random characters that represent icons */
 .ni-asterisk:before {
   content: ""; }
 
