@@ -1,0 +1,11 @@
+// Base Class Definition
+
+.#{$ni-css-prefix} {
+  display: inline-block;
+  font: normal normal normal #{$ni-font-size-base}/#{$ni-line-height-base} NetminoIcons;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}

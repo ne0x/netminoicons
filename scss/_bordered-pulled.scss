@@ -1,0 +1,15 @@
+// Bordered & Pulled
+
+.#{$ni-css-prefix}-border {
+  padding: .2em .25em .15em;
+  border: solid .08em $ni-border-color;
+  border-radius: .1em;
+}
+
+.#{$ni-css-prefix}-pull-left { float: left; }
+.#{$ni-css-prefix}-pull-right { float: right; }
+
+.#{$ni-css-prefix} {
+  &.#{$ni-css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$ni-css-prefix}-pull-right { margin-left: .3em; }
+}

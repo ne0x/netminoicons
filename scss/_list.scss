@@ -1,0 +1,18 @@
+// List Icons
+
+.#{$ni-css-prefix}-ul {
+  padding-left: 0;
+  margin-left: $ni-li-width;
+  list-style-type: none;
+  > li { position: relative; }
+}
+.#{$ni-css-prefix}-li {
+  position: absolute;
+  left: -$ni-li-width;
+  width: $ni-li-width;
+  top: (2em / 14);
+  text-align: center;
+  &.#{$ni-css-prefix}-lg {
+    left: -$ni-li-width + (4em / 14);
+  }
+}
