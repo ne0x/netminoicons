@@ -1,0 +1,1385 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20160407 at Mon Sep 19 13:59:00 2016
+ By Jimmy Warting
+Netmino 2016. All rights reserved.
+</metadata>
+<defs>
+<font id="NetminoIcons" horiz-adv-x="1792" >
+  <font-face 
+    font-family="NetminoIcons"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1792"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="1536"
+    descent="-256"
+    bbox="-36.75 -129 2431 1536"
+    underline-thickness="50"
+    underline-position="-100"
+    unicode-range="U+001D-F500"
+  />
+<missing-glyph horiz-adv-x="896" 
+d="M336 1424v-1312h448v1312h-448zM896 0h-672v1536h672v-1536z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="896" 
+d="M336 1424v-1312h448v1312h-448zM896 0h-672v1536h672v-1536z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="448" 
+ />
+    <glyph glyph-name="uniF069" unicode="&#xf069;" horiz-adv-x="1664" 
+d="M1651 408c9 -34 4 -66 -13 -97l-64 -110c-17 -31 -43 -50 -78 -59c-34 -9 -66 -5 -97 12l-266 153v-307c0 -35 -13 -65 -38 -90s-55 -38 -90 -38h-128c-35 0 -65 13 -90 38s-38 55 -38 90v307l-266 -153c-31 -17 -63 -21 -97 -12c-35 9 -61 28 -78 59l-64 110
+c-17 31 -21 63 -12 97c9 35 28 61 59 78l266 154l-266 154c-31 17 -50 43 -59 78c-9 34 -5 66 12 97l64 110c17 31 43 51 78 60c34 9 66 4 97 -13l266 -153v307c0 35 13 65 38 90s55 38 90 38h128c35 0 65 -13 90 -38s38 -55 38 -90v-307l266 153c31 17 63 22 97 13
+c35 -9 61 -29 78 -60l64 -110c17 -31 22 -63 13 -97c-9 -35 -29 -61 -60 -78l-266 -154l266 -154c31 -17 51 -43 60 -78z" />
+    <glyph glyph-name="uniF067" unicode="&#xf067;" horiz-adv-x="1408" 
+d="M1408 800v-192c0 -27 -9 -49 -28 -68s-41 -28 -68 -28h-416v-416c0 -27 -9 -49 -28 -68s-41 -28 -68 -28h-192c-27 0 -49 9 -68 28s-28 41 -28 68v416h-416c-27 0 -49 9 -68 28s-28 41 -28 68v192c0 27 9 49 28 68s41 28 68 28h416v416c0 27 9 49 28 68s41 28 68 28h192
+c27 0 49 -9 68 -28s28 -41 28 -68v-416h416c27 0 49 -9 68 -28s28 -41 28 -68z" />
+    <glyph glyph-name="uniF128" unicode="&#xf128;" horiz-adv-x="1024" 
+d="M788 280v-240c0 -11 -4 -20 -12 -28c-7 -8 -17 -12 -28 -12h-240c-11 0 -20 4 -28 12s-12 17 -12 28v240c0 11 4 21 12 28c8 8 17 12 28 12h240c11 0 21 -4 28 -12c8 -7 12 -17 12 -28zM1028 671c-20 -22 -44 -43 -73 -62c-11 -7 -24 -15 -38 -24l-19 -11l-18 -10
+c-27 -15 -51 -38 -70 -68c-17 -26 -26 -47 -26 -64c0 -11 -4 -22 -11 -32c-9 -11 -18 -16 -29 -16h-240c-10 0 -19 7 -26 20c-7 11 -10 23 -10 36v45c0 55 24 110 71 163c39 45 85 79 137 102c39 18 67 36 83 55c17 20 26 46 26 77c0 28 -16 53 -47 74s-66 32 -107 32
+c-43 0 -79 -10 -108 -29c-23 -17 -59 -55 -107 -115c-9 -11 -19 -16 -31 -16c-8 0 -16 3 -25 8l-164 125c-19 15 -23 32 -10 53c107 177 261 266 464 266c113 0 215 -38 307 -114c98 -81 147 -176 147 -286c0 -83 -25 -153 -76 -209z" />
+    <glyph glyph-name="acute" unicode="&#xb4;" 
+ />
+    <glyph glyph-name="dieresis" unicode="&#xa8;" 
+ />
+    <glyph glyph-name="AE" unicode="&#xc6;" 
+ />
+    <glyph glyph-name="Oslash" unicode="&#xd8;" 
+ />
+    <glyph glyph-name="trademark" unicode="&#x2122;" 
+ />
+    <glyph glyph-name="registered" unicode="&#xae;" 
+ />
+    <glyph glyph-name="uniF068" unicode="&#xf068;" horiz-adv-x="1408" 
+d="M1408 800v-192c0 -27 -9 -49 -28 -68s-41 -28 -68 -28h-1216c-27 0 -49 9 -68 28s-28 41 -28 68v192c0 27 9 49 28 68s41 28 68 28h1216c27 0 49 -9 68 -28s28 -41 28 -68z" />
+    <glyph glyph-name="copyright" unicode="&#xa9;" 
+ />
+    <glyph glyph-name="uniF000" unicode="&#xf000;" horiz-adv-x="2307" 
+d="M719 361c-96 0 -182 31 -258 94c-219 -55 -349 -109 -391 -164l-54 -132l-18 -148c0 -93 48 -140 144 -140h1153c97 0 145 47 145 140l-18 148l-54 132c-42 55 -172 109 -391 164c-76 -63 -162 -94 -258 -94zM996 708c56 111 84 229 84 352c0 233 -120 349 -361 349
+s-361 -116 -361 -349c0 -123 28 -241 84 -352c69 -138 161 -207 277 -207c115 0 208 69 277 207zM1585 11l-41 -140h618c95 0 143 47 143 140l-17 148l-55 132c-41 55 -171 109 -390 164c-77 -63 -163 -94 -258 -94l-103 14c69 -83 103 -205 103 -364zM1862 708
+c55 111 83 229 83 352c0 233 -120 349 -360 349c-241 0 -362 -116 -362 -349c0 -123 28 -241 84 -352c69 -138 162 -207 278 -207c115 0 208 69 277 207z" />
+    <glyph glyph-name="uniF001" unicode="&#xf001;" horiz-adv-x="2431" 
+d="M719 361c-95 0 -181 31 -257 93c-219 -54 -349 -108 -391 -163l-54 -131l-17 -148c0 -93 48 -140 143 -140h1152c96 0 144 47 144 140l-17 148l-54 131c-42 55 -172 109 -391 163c-76 -62 -162 -93 -258 -93zM996 707c56 111 84 228 84 351c0 233 -120 350 -361 350
+c-240 0 -360 -117 -360 -350c0 -123 28 -240 84 -351c69 -138 161 -207 276 -207s208 69 277 207zM1791 384v1024h256v-1024h-256zM1407 768v256h1024v-256h-1024z" />
+    <glyph glyph-name="uniF002" unicode="&#xf002;" horiz-adv-x="1536" 
+d="M658 -129v1536h219v-1536h-219zM0 529v219h1536v-219h-1536z" />
+    <glyph glyph-name="uniF003" unicode="&#xf003;" horiz-adv-x="1536" 
+d="M865 737v672h672v-672h-672zM0 737v672h672v-672h-672zM0 -127v672h672v-672h-672zM865 -127v672h672v-672h-672z" />
+    <glyph glyph-name="uniF004" unicode="&#xf004;" horiz-adv-x="1536" 
+d="M977 324l-59 20c-177 103 -318 241 -423 415l-30 98l55 76l64 76l1 81l-43 77c-57 78 -127 143 -211 194l-128 47c-91 5 -153 -56 -184 -181l-19 -157l11 -132c26 -123 87 -252 182 -387c217 -315 478 -525 782 -632c135 -47 253 -59 352 -36c65 16 117 44 154 84
+c47 48 64 102 53 163l-35 81l-57 69l-200 164l-42 19l-49 -16l-116 -85l-53 -33z" />
+    <glyph glyph-name="uniF005" unicode="&#xf005;" horiz-adv-x="2049" 
+d="M2049 1408l-1025 -1024l-1024 1024h2049zM640 512l384 -384l384 384l641 -640h-2049zM0 128l512 512l-512 512v-1024zM2049 128l-513 512l513 512v-1024z" />
+    <glyph glyph-name="uniF006" unicode="&#xf006;" horiz-adv-x="1536" 
+d="M1365 1237v-1194h-1194v1194h1194zM1450 1408h-1365c-57 0 -85 -28 -85 -85v-1365c0 -57 28 -86 85 -86h1365c57 0 86 29 86 86v1365c0 57 -29 85 -86 85zM597 982v170h-170v-170h170zM1109 982v170h-170v-170h170zM1109 555v171h-170v-171h170zM853 555v171h-170v-171
+h170zM597 555v171h-170v-171h170zM1109 299v171h-170v-171h170zM853 299v171h-170v-171h170zM597 299v171h-170v-171h170z" />
+    <glyph glyph-name="uniF007" unicode="&#xf007;" horiz-adv-x="1153" 
+d="M266 160v864h-266v-1152h798v288h-532zM1153 1120l-257 288h-512v-1152h769v864zM1025 1072h-171v192z" />
+    <glyph glyph-name="uniF008" unicode="&#xf008;" horiz-adv-x="1152" 
+d="M1152 68v530c0 121 -54 186 -162 195v185c0 118 -40 219 -120 303c-81 85 -179 127 -294 127s-213 -42 -293 -127c-81 -84 -121 -185 -121 -303v-185c-108 -9 -162 -74 -162 -195v-530c0 -131 63 -196 190 -196h771c127 0 191 65 191 196zM925 978v-183h-697v183
+c0 101 34 186 102 255c68 71 150 107 246 107c97 0 179 -36 247 -107s102 -156 102 -255zM474 457l5 4c26 27 58 41 97 41s73 -14 101 -43c27 -29 41 -64 41 -103c0 -40 -13 -74 -40 -101l-5 -5c-25 -27 -58 -40 -97 -40c-38 0 -71 14 -99 42c-28 29 -42 63 -42 104
+c0 39 13 72 39 101z" />
+    <glyph glyph-name="uniF009" unicode="&#xf009;" horiz-adv-x="1153" 
+d="M1153 68v530c0 131 -64 197 -192 197h-733v183c0 101 34 186 102 255c68 71 150 107 246 107c97 0 179 -36 247 -107l55 -70l20 -15l25 4l14 22l-3 25l-64 82c-81 85 -179 127 -294 127s-213 -42 -294 -127c-80 -84 -120 -185 -120 -303v-185c-108 -9 -162 -74 -162 -195
+v-530c0 -131 63 -196 190 -196h771c128 0 192 65 192 196zM474 457l6 4c25 27 58 41 97 41s73 -14 100 -43s41 -64 41 -103c0 -40 -13 -74 -40 -101l-5 -5c-25 -27 -57 -40 -96 -40s-72 14 -100 42c-28 29 -42 63 -42 104c0 39 13 72 39 101z" />
+    <glyph glyph-name="uniF00A" unicode="&#xf00a;" horiz-adv-x="2051" 
+d="M1013 -128h-17c-355 0 -686 245 -995 734c-17 27 -18 56 -3 86l23 38l55 82c61 87 126 166 197 238c221 227 452 346 693 358c368 17 721 -220 1058 -711c20 -29 21 -58 2 -88l-24 -40l-59 -86c-65 -91 -135 -174 -209 -249c-234 -236 -474 -357 -721 -362zM1008 29
+c186 3 372 89 559 258l192 204l69 89l47 68c-296 420 -596 621 -900 603c-182 -8 -362 -93 -539 -255l-181 -195l-64 -84l-43 -65c276 -425 563 -632 860 -623zM1334 641c0 -213 -107 -320 -321 -320c-213 0 -320 107 -320 320s107 320 320 320c214 0 321 -107 321 -320z
+" />
+    <glyph glyph-name="uniF00B" unicode="&#xf00b;" horiz-adv-x="915" 
+d="M8 783l397 -439c28 -33 56 -33 84 0l397 439c19 20 24 44 14 72c-11 27 -30 41 -56 41h-793c-27 0 -45 -14 -56 -41c-10 -28 -6 -52 13 -72z" />
+    <glyph glyph-name="uniF00C" unicode="&#xf00c;" horiz-adv-x="915" 
+d="M886 369l-397 438c-28 33 -56 33 -84 0l-397 -438c-19 -21 -23 -45 -13 -72c11 -27 29 -41 56 -41h793c26 0 45 14 56 41c10 27 5 51 -14 72z" />
+    <glyph glyph-name="uniF00D" unicode="&#xf00d;" horiz-adv-x="640" 
+d="M622 1078l-421 -395c-13 -12 -19 -26 -19 -43s6 -32 19 -43l421 -396c19 -19 43 -24 70 -14c26 11 39 29 39 56v793c0 27 -13 45 -39 56c-27 10 -51 5 -70 -14z" />
+    <glyph glyph-name="uniF00E" unicode="&#xf00e;" horiz-adv-x="640" 
+d="M109 201l422 396c12 12 18 26 18 43s-6 31 -18 43l-422 395c-19 19 -42 24 -69 14c-27 -11 -40 -29 -40 -56v-793c0 -27 13 -45 40 -56c27 -10 50 -5 69 14z" />
+    <glyph glyph-name="uniF010" unicode="&#xf010;" horiz-adv-x="1537" 
+d="M0 1024v384h384v-384h-384zM0 448v384h384v-384h-384zM0 -128v384h384v-384h-384zM576 1024v384h385v-384h-385zM576 448v384h385v-384h-385zM576 -128v384h385v-384h-385zM1153 1024v384h384v-384h-384zM1153 448v384h384v-384h-384zM1153 -128v384h384v-384h-384z" />
+    <glyph glyph-name="uniF011" unicode="&#xf011;" horiz-adv-x="1537" 
+d="M0 1101v307h1537v-307h-1537zM615 -128v1229h307v-1229h-307z" />
+    <glyph glyph-name="uniF012" unicode="&#xf012;" horiz-adv-x="1536" 
+d="M1316 1370l-583 -588l-585 588c-50 50 -98 50 -143 0c-51 -51 -51 -99 0 -144l583 -589l-588 -583c-49 -51 -49 -99 0 -145c51 -49 99 -49 144 0l589 585l583 -585c51 -49 99 -49 145 0c47 54 47 102 0 145l-585 583l585 585c50 50 50 98 0 143c-45 49 -93 51 -145 5z
+" />
+    <glyph glyph-name="uniF013" unicode="&#xf013;" 
+d="M226 53l661 698l652 -684c55 -59 111 -61 168 -5c55 57 56 116 3 175l-3 5l-734 770c-56 58 -112 58 -168 0l-746 -784c-56 -58 -56 -116 0 -175c57 -59 112 -59 167 0z" />
+    <glyph glyph-name="uniF014" unicode="&#xf014;" 
+d="M1555 971l-662 -698l-651 684c-55 59 -111 60 -169 5c-55 -57 -56 -116 -3 -175l3 -5l734 -770c56 -59 112 -59 168 0l746 783c57 59 57 117 0 176s-112 59 -166 0z" />
+    <glyph glyph-name="uniF015" unicode="&#xf015;" horiz-adv-x="1753" 
+d="M1753 1228l-206 -61c77 50 129 122 158 215l-230 -96c-69 82 -156 123 -261 123c-239 0 -359 -129 -359 -387l9 -89c-303 17 -550 153 -741 406l-50 -196c0 -138 54 -245 161 -322l-163 47v-4c0 -212 96 -339 289 -380l-95 -14l-67 6c52 -176 163 -266 334 -269
+c-130 -111 -278 -166 -445 -166l-87 5c169 -116 353 -174 551 -174c311 0 564 120 760 360c176 215 264 463 264 744l-2 51z" />
+    <glyph glyph-name="uniF016" unicode="&#xf016;" horiz-adv-x="1536" 
+d="M171 1237v-1194h1195v1194h-1195zM1451 -128h-1366c-57 0 -85 28 -85 85v1366c0 57 28 85 85 85h1366c57 0 85 -28 85 -85v-1366c0 -57 -28 -85 -85 -85zM854 725v256h256v-256h-256zM427 725v256h256v-256h-256zM854 299v256h256v-256h-256zM427 299v256h256v-256h-256z
+" />
+    <glyph glyph-name="uniF017" unicode="&#xf017;" horiz-adv-x="1536" 
+d="M0 640c0 512 256 768 768 768s768 -256 768 -768s-256 -768 -768 -768s-768 256 -768 768zM192 640c0 -384 192 -576 576 -576s576 192 576 576s-192 576 -576 576s-576 -192 -576 -576zM1055 543h-384v481h193v-288h191v-193z" />
+    <glyph glyph-name="uniF018" unicode="&#xf018;" horiz-adv-x="1536" 
+d="M0 1101v307h1536v-307h-1536zM0 487v307h921v-307h-921zM0 -128v308h1536v-308h-1536z" />
+    <glyph glyph-name="uniF019" unicode="&#xf019;" horiz-adv-x="1875" 
+d="M1236 1053l-164 -652l-222 930c-13 51 -46 77 -99 77s-86 -25 -100 -76l-197 -788l-68 140c-20 37 -51 56 -92 56c-7 0 -47 -10 -118 -31l-93 -28l-83 -25c-36 -11 -36 -21 1 -31l218 -64l173 -354c21 -43 56 -61 103 -56s77 30 89 75l164 653l222 -930
+c13 -51 46 -77 99 -77c54 0 87 25 100 76l197 787l70 -139c19 -37 49 -56 91 -56c7 0 46 10 117 31l93 27l84 25c36 11 35 21 -2 32l-218 64l-173 354c-21 42 -56 61 -103 56s-77 -30 -89 -76z" />
+    <glyph glyph-name="uniF01A" unicode="&#xf01a;" horiz-adv-x="1537" 
+d="M1110 1390l-999 -998c-8 -9 -13 -18 -15 -28l-97 -422c-3 -15 -1 -30 8 -43s21 -22 36 -26c9 -1 18 -1 25 0l423 96c11 3 20 8 28 16l999 998c11 11 16 25 16 40c0 16 -5 30 -16 41l-327 326c-12 13 -28 19 -47 18c-15 -3 -26 -9 -34 -18zM234 351l916 917l245 -244
+l-916 -917zM133 6l52 231l179 -179z" />
+    <glyph glyph-name="uniF01B" unicode="&#xf01b;" horiz-adv-x="1536" 
+d="M1248 736v-192h-384v-384h-192v384h-384v192h384v384h192v-384h384zM1260 1408h-984c-76 0 -141 -27 -195 -81s-81 -119 -81 -195v-984c0 -76 27 -141 81 -195s119 -81 195 -81h984c76 0 141 27 195 81s81 119 81 195v984c0 76 -27 141 -81 195s-119 81 -195 81z" />
+    <glyph glyph-name="uniF01C" unicode="&#xf01c;" horiz-adv-x="1536" 
+d="M0 -128v192h1536v-192h-1536zM0 1216v192h1536v-192h-1536zM0 544v192h1536v-192h-1536z" />
+    <glyph glyph-name="uniF01D" unicode="&#xf01d;" horiz-adv-x="658" 
+d="M438 640v-768h-292v768h-146v264h146v160c0 113 23 197 70 253c51 61 133 91 246 91h195v-264h-122c-42 0 -70 -9 -83 -28c-9 -13 -14 -40 -14 -79v-133h220l-26 -264h-194z" />
+    <glyph glyph-name="uniF01E" unicode="&#xf01e;" horiz-adv-x="1537" 
+d="M892 393l-62 62l-371 -372l-248 247l372 372l-62 62c-17 17 -37 26 -62 26c-24 0 -45 -9 -62 -26l-371 -371c-17 -17 -26 -38 -26 -62s9 -45 26 -62l371 -371c17 -17 38 -26 62 -26c25 0 45 9 62 26l371 371c17 17 26 38 26 62s-9 45 -26 62zM1511 1011l-371 372
+c-17 17 -38 25 -62 25c-25 0 -45 -8 -62 -25l-372 -372c-17 -17 -25 -37 -25 -62c0 -24 8 -45 25 -62l63 -61l371 371l247 -247l-371 -371l62 -63c17 -17 37 -26 62 -26c24 0 45 9 62 26l371 371c17 17 26 38 26 62c0 25 -9 45 -26 62zM582 367c25 0 45 9 62 26l124 123
+l54 53l71 71h-1l123 124c17 17 26 38 26 62c0 25 -9 45 -26 61c-16 17 -36 26 -61 26c-24 0 -45 -9 -62 -26l-124 -123l-53 -53l-71 -71l-123 -124c-17 -17 -25 -38 -25 -62s8 -44 25 -61s37 -26 61 -26z" />
+    <glyph glyph-name="uniF021" unicode="&#xf021;" horiz-adv-x="1536" 
+d="M1248 902l-133 122l-63 -64l-439 -450l-131 127l-64 63l-130 -125l64 -63l199 -192l66 -64l66 66l503 516zM0 -128v1536h1536v-1536h-1536z" />
+    <glyph glyph-name="uniF022" unicode="&#xf022;" horiz-adv-x="1344" 
+d="M333 397c-94 93 -141 206 -141 339h-192c0 -168 55 -315 166 -442c109 -125 246 -199 410 -222v-200h192v200c164 23 301 97 410 222c111 127 166 274 166 442h-192c0 -133 -47 -246 -141 -339c-93 -94 -206 -141 -339 -141s-246 47 -339 141zM875 533
+c57 56 85 124 85 203v384c0 79 -28 147 -85 203c-56 57 -124 85 -203 85s-147 -28 -203 -85c-57 -56 -85 -124 -85 -203v-384c0 -79 28 -147 85 -203c56 -57 124 -85 203 -85s147 28 203 85z" />
+    <glyph glyph-name="uniF023" unicode="&#xf023;" horiz-adv-x="1536" 
+d="M0 1101v307h307v-307h-307zM614 1101v307h922v-307h-922zM0 486v308h307v-308h-307zM614 486v308h922v-308h-922zM0 -128v307h307v-307h-307zM614 -128v307h922v-307h-922z" />
+    <glyph glyph-name="uniF024" unicode="&#xf024;" horiz-adv-x="1195" 
+d="M177 363c24 11 41 28 50 51c9 24 9 48 -2 71c-23 49 -34 102 -34 158c0 107 40 199 119 276c79 76 175 114 287 114c29 0 60 -4 93 -11l12 -2l19 -5l2 -1l14 -5l18 -7l9 -3c33 -13 58 -28 77 -43l352 452l-464 -205c-47 9 -91 14 -132 14c-165 0 -305 -56 -422 -169
+c-55 -53 -98 -113 -128 -182c-31 -71 -47 -146 -47 -223c0 -81 17 -159 50 -233c8 -17 20 -30 37 -40c15 -9 32 -14 51 -14c13 0 26 2 39 7zM1092 912c-25 9 -49 9 -73 -2s-41 -28 -50 -51c-9 -24 -9 -48 1 -71c23 -47 34 -97 34 -152c0 -107 -40 -199 -119 -275
+c-79 -75 -174 -114 -287 -115c-57 -1 -109 9 -158 31l-14 6c-29 12 -53 25 -73 40l-351 -451l431 203c83 -9 138 -13 165 -13c165 0 305 56 422 169c55 53 98 113 128 182c31 71 47 146 47 223c0 80 -17 156 -50 228c-11 23 -28 39 -53 48zM691 728c-26 25 -57 38 -94 38
+s-69 -13 -95 -38s-39 -55 -39 -91c0 -35 13 -66 39 -91s58 -38 95 -38s68 13 94 38c27 25 40 56 40 91c0 36 -13 66 -40 91z" />
+    <glyph glyph-name="uniF025" unicode="&#xf025;" horiz-adv-x="1536" 
+d="M1505 621l-720 727l-5 4h-2c-27 27 -61 42 -102 43l-342 12l-15 1c-42 -1 -77 -16 -105 -45l-169 -168c-30 -31 -45 -68 -45 -113l1 -14l23 -334v-7c3 -31 15 -59 35 -84l20 -18l707 -717l11 -10c20 -18 44 -27 71 -26s51 11 70 31l567 571c21 21 31 45 31 74
+s-10 53 -31 73zM268 908c-33 32 -49 71 -49 116s16 84 49 116c32 33 71 49 116 49s84 -16 116 -49c33 -32 49 -71 49 -116s-16 -84 -49 -116c-32 -33 -71 -49 -116 -49s-84 16 -116 49z" />
+    <glyph glyph-name="uniF026" unicode="&#xf026;" horiz-adv-x="1536" 
+d="M1440 928v-864c0 -53 -19 -98 -56 -136c-38 -37 -83 -56 -136 -56h-960c-53 0 -98 19 -136 56c-37 38 -56 83 -56 136v864c-27 0 -49 9 -68 28s-28 41 -28 68v96h480v96c0 53 19 98 56 136c38 37 83 56 136 56h192c53 0 98 -19 136 -56c37 -38 56 -83 56 -136v-96h480
+v-96c0 -27 -9 -49 -28 -68s-41 -28 -68 -28zM864 1120v96h-192v-96h192zM1248 160v672c0 27 -9 49 -28 68s-41 28 -68 28h-768c-27 0 -49 -9 -68 -28s-28 -41 -28 -68v-672c0 -27 9 -49 28 -68s41 -28 68 -28h768c27 0 49 9 68 28s28 41 28 68zM864 256v480h192v-480h-192z
+M480 256v480h192v-480h-192z" />
+    <glyph glyph-name="uniF027" unicode="&#xf027;" horiz-adv-x="1536" 
+d="M1427 1273l-252 -253l-30 23l255 256zM1343 597c-16 -21 -32 -42 -49 -63c-43 -54 -88 -102 -135 -144c-132 -119 -264 -179 -395 -182c-73 -2 -147 16 -221 53l163 163c23 -7 43 -10 62 -10c63 0 116 22 160 66c44 45 66 98 66 160c0 19 -3 39 -10 62l184 184
+c72 -66 141 -146 208 -241c-11 -15 -22 -31 -33 -48zM387 232l-252 -251l-26 27l249 249l14 -13zM913 812l156 155l15 -11l15 -12l-159 -159c-8 10 -17 19 -27 27zM623 468l-160 -159l-15 11l-15 12l163 163c8 -9 17 -18 27 -27zM188 694c14 20 29 40 45 60
+c41 51 83 97 127 137c125 114 252 174 381 180c82 5 165 -14 248 -56l-159 -159c-23 7 -43 10 -62 10c-63 0 -116 -22 -160 -66s-66 -97 -66 -160c0 -19 3 -39 10 -62l-187 -187c-71 69 -141 154 -208 257c9 15 20 31 31 46zM1523 1305l-91 90c-9 9 -19 13 -31 13
+c-13 0 -23 -4 -32 -13l-302 -302c-111 64 -222 93 -332 88c-170 -8 -333 -92 -490 -252c-49 -51 -96 -107 -139 -168c-14 -20 -27 -39 -38 -58c-4 -6 -8 -12 -11 -18c-1 -2 -3 -4 -4 -6l-1 -2l-1 -1c-10 -21 -9 -41 2 -60c75 -119 154 -219 237 -300l-277 -276
+c-9 -9 -13 -20 -13 -32c0 -13 4 -23 13 -32l91 -91c9 -9 19 -13 31 -13c13 0 23 4 32 13l297 297c97 -56 194 -84 291 -84h13c174 3 344 88 509 255c52 53 101 112 147 176c15 21 28 41 41 61l12 18l2 4l2 2c1 2 1 3 2 3c13 22 12 43 -2 63c-75 109 -155 203 -238 281
+l280 280c9 9 13 19 13 32c0 12 -4 23 -13 32z" />
+    <glyph glyph-name="uniF028" unicode="&#xf028;" horiz-adv-x="1615" 
+d="M1413 1206v-1132h-1211v1132h213v-134h157v134h470v-134h158v134h213zM1514 1408h-1413c-28 0 -52 -10 -71 -29c-20 -20 -30 -44 -30 -72v-1334c0 -27 10 -51 30 -71c19 -20 43 -30 71 -30h1413c27 0 51 10 71 30c20 19 30 43 30 71v1334c0 28 -10 52 -30 72
+c-20 19 -44 29 -71 29zM1062 635l-205 242c-6 7 -13 10 -22 10s-16 -3 -22 -10l-204 -242c-10 -11 -12 -24 -7 -39s15 -22 29 -22h98v-287h157v287h153c15 0 24 7 29 22s3 28 -6 39z" />
+    <glyph glyph-name="uniF029" unicode="&#xf029;" horiz-adv-x="1536" 
+d="M1365 43h-1194v233l15 -12l383 493l330 -425c17 -22 40 -33 68 -33s50 11 67 33l331 425v-714zM171 1237h1194v-233l-15 12l-383 -493l-330 425c-17 22 -40 33 -68 33s-50 -11 -67 -33l-331 -425v714zM1451 1408h-1366c-23 0 -43 -8 -60 -25s-25 -37 -25 -60v-1366
+c0 -23 8 -43 25 -60s37 -25 60 -25h1366c23 0 43 8 60 25s25 37 25 60v1366c0 23 -8 43 -25 60s-37 25 -60 25z" />
+    <glyph glyph-name="uniF02A" unicode="&#xf02a;" horiz-adv-x="1536" 
+d="M853 725v256h-170v-256h-256v-170h256v-256h170v256h256v170h-256zM536 90c-71 30 -135 73 -190 128s-98 119 -128 190c-31 74 -47 151 -47 232s16 158 47 232c30 72 73 135 128 190s119 98 190 128c74 31 151 47 232 47s158 -16 232 -47c71 -30 135 -73 190 -128
+s98 -118 128 -190c31 -74 47 -151 47 -232s-16 -158 -47 -232c-30 -71 -73 -135 -128 -190s-119 -98 -190 -128c-74 -31 -151 -47 -232 -47s-158 16 -232 47zM469 1348c-91 -39 -173 -94 -244 -165s-126 -153 -165 -244c-40 -95 -60 -195 -60 -299s20 -204 60 -299
+c39 -91 94 -173 165 -244s153 -126 244 -165c95 -40 195 -60 299 -60s204 20 299 60c92 39 173 94 244 165s126 153 165 244c40 95 60 195 60 299s-20 204 -60 299c-39 91 -94 173 -165 244s-152 126 -244 165c-95 40 -195 60 -299 60s-204 -20 -299 -60z" />
+    <glyph glyph-name="uniF02B" unicode="&#xf02b;" horiz-adv-x="1655" 
+d="M473 345v236h1182v-236h-1182zM946 817v237h709v-237h-709zM473 -128v236h1182v-236h-1182zM946 1296l-132 112l-62 -59l-431 -415l-129 117l-64 58l-128 -116l64 -58l195 -177l66 -59l64 62l495 476z" />
+    <glyph glyph-name="uniF02C" unicode="&#xf02c;" horiz-adv-x="1536" 
+d="M1537 1027l-213 182l-101 -97l-702 -674l-210 190l-104 94l-207 -188l103 -94l318 -287l106 -97l104 99l806 775z" />
+    <glyph glyph-name="uniF02D" unicode="&#xf02d;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF02E" unicode="&#xf02e;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF02F" unicode="&#xf02f;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF030" unicode="&#xf030;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF031" unicode="&#xf031;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF032" unicode="&#xf032;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF033" unicode="&#xf033;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF034" unicode="&#xf034;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF035" unicode="&#xf035;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF036" unicode="&#xf036;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF037" unicode="&#xf037;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF038" unicode="&#xf038;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF039" unicode="&#xf039;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF03A" unicode="&#xf03a;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF03B" unicode="&#xf03b;" horiz-adv-x="1536" 
+d="M1536 1344v-1408c0 -17 -6 -32 -19 -45s-28 -19 -45 -19h-1408c-17 0 -32 6 -45 19s-19 28 -19 45v1408c0 17 6 32 19 45s28 19 45 19h1408c17 0 32 -6 45 -19s19 -28 19 -45z" />
+    <glyph glyph-name="uniF03C" unicode="&#xf03c;" 
+ />
+    <glyph glyph-name="uniF03D" unicode="&#xf03d;" 
+ />
+    <glyph glyph-name="uniF03E" unicode="&#xf03e;" 
+ />
+    <glyph glyph-name="uniF040" unicode="&#xf040;" 
+ />
+    <glyph glyph-name="uniF041" unicode="&#xf041;" 
+ />
+    <glyph glyph-name="uniF042" unicode="&#xf042;" 
+ />
+    <glyph glyph-name="uniF043" unicode="&#xf043;" 
+ />
+    <glyph glyph-name="uniF044" unicode="&#xf044;" 
+ />
+    <glyph glyph-name="uniF045" unicode="&#xf045;" 
+ />
+    <glyph glyph-name="uniF046" unicode="&#xf046;" 
+ />
+    <glyph glyph-name="uniF047" unicode="&#xf047;" 
+ />
+    <glyph glyph-name="uniF048" unicode="&#xf048;" 
+ />
+    <glyph glyph-name="uniF049" unicode="&#xf049;" 
+ />
+    <glyph glyph-name="uniF04A" unicode="&#xf04a;" 
+ />
+    <glyph glyph-name="uniF04B" unicode="&#xf04b;" 
+ />
+    <glyph glyph-name="uniF04C" unicode="&#xf04c;" 
+ />
+    <glyph glyph-name="uniF04D" unicode="&#xf04d;" 
+ />
+    <glyph glyph-name="uniF04E" unicode="&#xf04e;" 
+ />
+    <glyph glyph-name="uniF050" unicode="&#xf050;" 
+ />
+    <glyph glyph-name="uniF051" unicode="&#xf051;" 
+ />
+    <glyph glyph-name="uniF052" unicode="&#xf052;" 
+ />
+    <glyph glyph-name="uniF053" unicode="&#xf053;" 
+ />
+    <glyph glyph-name="uniF054" unicode="&#xf054;" 
+ />
+    <glyph glyph-name="uniF055" unicode="&#xf055;" 
+ />
+    <glyph glyph-name="uniF056" unicode="&#xf056;" 
+ />
+    <glyph glyph-name="uniF057" unicode="&#xf057;" 
+ />
+    <glyph glyph-name="uniF058" unicode="&#xf058;" 
+ />
+    <glyph glyph-name="uniF059" unicode="&#xf059;" 
+ />
+    <glyph glyph-name="uniF05A" unicode="&#xf05a;" 
+ />
+    <glyph glyph-name="uniF05B" unicode="&#xf05b;" 
+ />
+    <glyph glyph-name="uniF05C" unicode="&#xf05c;" 
+ />
+    <glyph glyph-name="uniF05D" unicode="&#xf05d;" 
+ />
+    <glyph glyph-name="uniF05E" unicode="&#xf05e;" 
+ />
+    <glyph glyph-name="uniF060" unicode="&#xf060;" 
+ />
+    <glyph glyph-name="uniF061" unicode="&#xf061;" 
+ />
+    <glyph glyph-name="uniF062" unicode="&#xf062;" 
+ />
+    <glyph glyph-name="uniF063" unicode="&#xf063;" 
+ />
+    <glyph glyph-name="uniF064" unicode="&#xf064;" 
+ />
+    <glyph glyph-name="uniF065" unicode="&#xf065;" 
+ />
+    <glyph glyph-name="uniF066" unicode="&#xf066;" 
+ />
+    <glyph glyph-name="uniF06A" unicode="&#xf06a;" 
+ />
+    <glyph glyph-name="uniF06B" unicode="&#xf06b;" 
+ />
+    <glyph glyph-name="uniF06C" unicode="&#xf06c;" 
+ />
+    <glyph glyph-name="uniF06D" unicode="&#xf06d;" 
+ />
+    <glyph glyph-name="uniF06E" unicode="&#xf06e;" 
+ />
+    <glyph glyph-name="uniF070" unicode="&#xf070;" 
+ />
+    <glyph glyph-name="uniF071" unicode="&#xf071;" 
+ />
+    <glyph glyph-name="uniF072" unicode="&#xf072;" 
+ />
+    <glyph glyph-name="uniF073" unicode="&#xf073;" 
+ />
+    <glyph glyph-name="uniF074" unicode="&#xf074;" 
+ />
+    <glyph glyph-name="uniF075" unicode="&#xf075;" 
+ />
+    <glyph glyph-name="uniF076" unicode="&#xf076;" 
+ />
+    <glyph glyph-name="uniF077" unicode="&#xf077;" 
+ />
+    <glyph glyph-name="uniF078" unicode="&#xf078;" 
+ />
+    <glyph glyph-name="uniF079" unicode="&#xf079;" 
+ />
+    <glyph glyph-name="uniF07A" unicode="&#xf07a;" 
+ />
+    <glyph glyph-name="uniF07B" unicode="&#xf07b;" 
+ />
+    <glyph glyph-name="uniF07C" unicode="&#xf07c;" 
+ />
+    <glyph glyph-name="uniF07D" unicode="&#xf07d;" 
+ />
+    <glyph glyph-name="uniF07E" unicode="&#xf07e;" 
+ />
+    <glyph glyph-name="uniF080" unicode="&#xf080;" 
+ />
+    <glyph glyph-name="uniF081" unicode="&#xf081;" 
+ />
+    <glyph glyph-name="uniF082" unicode="&#xf082;" 
+ />
+    <glyph glyph-name="uniF083" unicode="&#xf083;" 
+ />
+    <glyph glyph-name="uniF084" unicode="&#xf084;" 
+ />
+    <glyph glyph-name="uniF085" unicode="&#xf085;" 
+ />
+    <glyph glyph-name="uniF086" unicode="&#xf086;" 
+ />
+    <glyph glyph-name="uniF087" unicode="&#xf087;" 
+ />
+    <glyph glyph-name="uniF088" unicode="&#xf088;" 
+ />
+    <glyph glyph-name="uniF089" unicode="&#xf089;" 
+ />
+    <glyph glyph-name="uniF08A" unicode="&#xf08a;" 
+ />
+    <glyph glyph-name="uniF08B" unicode="&#xf08b;" 
+ />
+    <glyph glyph-name="uniF08C" unicode="&#xf08c;" 
+ />
+    <glyph glyph-name="uniF08D" unicode="&#xf08d;" 
+ />
+    <glyph glyph-name="uniF08E" unicode="&#xf08e;" 
+ />
+    <glyph glyph-name="uniF090" unicode="&#xf090;" 
+ />
+    <glyph glyph-name="uniF091" unicode="&#xf091;" 
+ />
+    <glyph glyph-name="uniF092" unicode="&#xf092;" 
+ />
+    <glyph glyph-name="uniF093" unicode="&#xf093;" 
+ />
+    <glyph glyph-name="uniF094" unicode="&#xf094;" 
+ />
+    <glyph glyph-name="uniF095" unicode="&#xf095;" 
+ />
+    <glyph glyph-name="uniF096" unicode="&#xf096;" 
+ />
+    <glyph glyph-name="uniF097" unicode="&#xf097;" 
+ />
+    <glyph glyph-name="uniF098" unicode="&#xf098;" 
+ />
+    <glyph glyph-name="uniF099" unicode="&#xf099;" 
+ />
+    <glyph glyph-name="uniF09A" unicode="&#xf09a;" 
+ />
+    <glyph glyph-name="uniF09B" unicode="&#xf09b;" 
+ />
+    <glyph glyph-name="uniF09C" unicode="&#xf09c;" 
+ />
+    <glyph glyph-name="uniF09D" unicode="&#xf09d;" 
+ />
+    <glyph glyph-name="uniF09E" unicode="&#xf09e;" 
+ />
+    <glyph glyph-name="uniF0A0" unicode="&#xf0a0;" 
+ />
+    <glyph glyph-name="uniF0A1" unicode="&#xf0a1;" 
+ />
+    <glyph glyph-name="uniF0A2" unicode="&#xf0a2;" 
+ />
+    <glyph glyph-name="uniF0A3" unicode="&#xf0a3;" 
+ />
+    <glyph glyph-name="uniF0A4" unicode="&#xf0a4;" 
+ />
+    <glyph glyph-name="uniF0A5" unicode="&#xf0a5;" 
+ />
+    <glyph glyph-name="uniF0A6" unicode="&#xf0a6;" 
+ />
+    <glyph glyph-name="uniF0A7" unicode="&#xf0a7;" 
+ />
+    <glyph glyph-name="uniF0A8" unicode="&#xf0a8;" 
+ />
+    <glyph glyph-name="uniF0A9" unicode="&#xf0a9;" 
+ />
+    <glyph glyph-name="uniF0AA" unicode="&#xf0aa;" 
+ />
+    <glyph glyph-name="uniF0AB" unicode="&#xf0ab;" 
+ />
+    <glyph glyph-name="uniF0AC" unicode="&#xf0ac;" 
+ />
+    <glyph glyph-name="uniF0AD" unicode="&#xf0ad;" 
+ />
+    <glyph glyph-name="uniF0AE" unicode="&#xf0ae;" 
+ />
+    <glyph glyph-name="uniF0B0" unicode="&#xf0b0;" 
+ />
+    <glyph glyph-name="uniF0B1" unicode="&#xf0b1;" 
+ />
+    <glyph glyph-name="uniF0B2" unicode="&#xf0b2;" 
+ />
+    <glyph glyph-name="notequal" unicode="&#x2260;" 
+ />
+    <glyph glyph-name="infinity" unicode="&#x221e;" 
+ />
+    <glyph glyph-name="uniF500" unicode="&#xf500;" 
+ />
+    <glyph glyph-name="uniF0C0" unicode="&#xf0c0;" 
+ />
+    <glyph glyph-name="uniF0C1" unicode="&#xf0c1;" 
+ />
+    <glyph glyph-name="uniF0C2" unicode="&#xf0c2;" 
+ />
+    <glyph glyph-name="uniF0C3" unicode="&#xf0c3;" 
+ />
+    <glyph glyph-name="uniF0C4" unicode="&#xf0c4;" 
+ />
+    <glyph glyph-name="uniF0C5" unicode="&#xf0c5;" 
+ />
+    <glyph glyph-name="uniF0C6" unicode="&#xf0c6;" 
+ />
+    <glyph glyph-name="uniF0C7" unicode="&#xf0c7;" 
+ />
+    <glyph glyph-name="uniF0C8" unicode="&#xf0c8;" 
+ />
+    <glyph glyph-name="uniF0C9" unicode="&#xf0c9;" 
+ />
+    <glyph glyph-name="uniF0CA" unicode="&#xf0ca;" 
+ />
+    <glyph glyph-name="uniF0CB" unicode="&#xf0cb;" 
+ />
+    <glyph glyph-name="uniF0CC" unicode="&#xf0cc;" 
+ />
+    <glyph glyph-name="uniF0CD" unicode="&#xf0cd;" 
+ />
+    <glyph glyph-name="uniF0CE" unicode="&#xf0ce;" 
+ />
+    <glyph glyph-name="uniF0D0" unicode="&#xf0d0;" 
+ />
+    <glyph glyph-name="uniF0D1" unicode="&#xf0d1;" 
+ />
+    <glyph glyph-name="uniF0D2" unicode="&#xf0d2;" 
+ />
+    <glyph glyph-name="uniF0D3" unicode="&#xf0d3;" 
+ />
+    <glyph glyph-name="uniF0D4" unicode="&#xf0d4;" 
+ />
+    <glyph glyph-name="uniF0D5" unicode="&#xf0d5;" 
+ />
+    <glyph glyph-name="uniF0D6" unicode="&#xf0d6;" 
+ />
+    <glyph glyph-name="uniF0D7" unicode="&#xf0d7;" 
+ />
+    <glyph glyph-name="uniF0D8" unicode="&#xf0d8;" 
+ />
+    <glyph glyph-name="uniF0D9" unicode="&#xf0d9;" 
+ />
+    <glyph glyph-name="uniF0DA" unicode="&#xf0da;" 
+ />
+    <glyph glyph-name="uniF0DB" unicode="&#xf0db;" 
+ />
+    <glyph glyph-name="uniF0DC" unicode="&#xf0dc;" 
+ />
+    <glyph glyph-name="uniF0DD" unicode="&#xf0dd;" 
+ />
+    <glyph glyph-name="uniF0DE" unicode="&#xf0de;" 
+ />
+    <glyph glyph-name="uniF0E0" unicode="&#xf0e0;" 
+ />
+    <glyph glyph-name="uniF0E1" unicode="&#xf0e1;" 
+ />
+    <glyph glyph-name="uniF0E2" unicode="&#xf0e2;" 
+ />
+    <glyph glyph-name="uniF0E3" unicode="&#xf0e3;" 
+ />
+    <glyph glyph-name="uniF0E4" unicode="&#xf0e4;" 
+ />
+    <glyph glyph-name="uniF0E5" unicode="&#xf0e5;" 
+ />
+    <glyph glyph-name="uniF0E6" unicode="&#xf0e6;" 
+ />
+    <glyph glyph-name="uniF0E7" unicode="&#xf0e7;" 
+ />
+    <glyph glyph-name="uniF0E8" unicode="&#xf0e8;" 
+ />
+    <glyph glyph-name="uniF0E9" unicode="&#xf0e9;" 
+ />
+    <glyph glyph-name="uniF0EA" unicode="&#xf0ea;" 
+ />
+    <glyph glyph-name="uniF0EB" unicode="&#xf0eb;" 
+ />
+    <glyph glyph-name="uniF0EC" unicode="&#xf0ec;" 
+ />
+    <glyph glyph-name="uniF0ED" unicode="&#xf0ed;" 
+ />
+    <glyph glyph-name="uniF0EE" unicode="&#xf0ee;" 
+ />
+    <glyph glyph-name="uniF0F0" unicode="&#xf0f0;" 
+ />
+    <glyph glyph-name="uniF0F1" unicode="&#xf0f1;" 
+ />
+    <glyph glyph-name="uniF0F2" unicode="&#xf0f2;" 
+ />
+    <glyph glyph-name="uniF0F3" unicode="&#xf0f3;" 
+ />
+    <glyph glyph-name="uniF0F4" unicode="&#xf0f4;" 
+ />
+    <glyph glyph-name="uniF0F5" unicode="&#xf0f5;" 
+ />
+    <glyph glyph-name="uniF0F6" unicode="&#xf0f6;" 
+ />
+    <glyph glyph-name="uniF0F7" unicode="&#xf0f7;" 
+ />
+    <glyph glyph-name="uniF0F8" unicode="&#xf0f8;" 
+ />
+    <glyph glyph-name="uniF0F9" unicode="&#xf0f9;" 
+ />
+    <glyph glyph-name="uniF0FA" unicode="&#xf0fa;" 
+ />
+    <glyph glyph-name="uniF0FB" unicode="&#xf0fb;" 
+ />
+    <glyph glyph-name="uniF0FC" unicode="&#xf0fc;" 
+ />
+    <glyph glyph-name="uniF0FD" unicode="&#xf0fd;" 
+ />
+    <glyph glyph-name="uniF0FE" unicode="&#xf0fe;" 
+ />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+ />
+    <glyph glyph-name="uniF101" unicode="&#xf101;" 
+ />
+    <glyph glyph-name="uniF102" unicode="&#xf102;" 
+ />
+    <glyph glyph-name="uniF103" unicode="&#xf103;" 
+ />
+    <glyph glyph-name="uniF104" unicode="&#xf104;" 
+ />
+    <glyph glyph-name="uniF105" unicode="&#xf105;" 
+ />
+    <glyph glyph-name="uniF106" unicode="&#xf106;" 
+ />
+    <glyph glyph-name="uniF107" unicode="&#xf107;" 
+ />
+    <glyph glyph-name="uniF108" unicode="&#xf108;" 
+ />
+    <glyph glyph-name="uniF109" unicode="&#xf109;" 
+ />
+    <glyph glyph-name="uniF10A" unicode="&#xf10a;" 
+ />
+    <glyph glyph-name="uniF10B" unicode="&#xf10b;" 
+ />
+    <glyph glyph-name="uniF10C" unicode="&#xf10c;" 
+ />
+    <glyph glyph-name="uniF10D" unicode="&#xf10d;" 
+ />
+    <glyph glyph-name="uniF10E" unicode="&#xf10e;" 
+ />
+    <glyph glyph-name="uniF110" unicode="&#xf110;" 
+ />
+    <glyph glyph-name="uniF111" unicode="&#xf111;" 
+ />
+    <glyph glyph-name="uniF112" unicode="&#xf112;" 
+ />
+    <glyph glyph-name="uniF113" unicode="&#xf113;" 
+ />
+    <glyph glyph-name="uniF114" unicode="&#xf114;" 
+ />
+    <glyph glyph-name="uniF115" unicode="&#xf115;" 
+ />
+    <glyph glyph-name="uniF116" unicode="&#xf116;" 
+ />
+    <glyph glyph-name="uniF117" unicode="&#xf117;" 
+ />
+    <glyph glyph-name="uniF118" unicode="&#xf118;" 
+ />
+    <glyph glyph-name="uniF119" unicode="&#xf119;" 
+ />
+    <glyph glyph-name="uniF11A" unicode="&#xf11a;" 
+ />
+    <glyph glyph-name="uniF11B" unicode="&#xf11b;" 
+ />
+    <glyph glyph-name="uniF11C" unicode="&#xf11c;" 
+ />
+    <glyph glyph-name="uniF11D" unicode="&#xf11d;" 
+ />
+    <glyph glyph-name="uniF11E" unicode="&#xf11e;" 
+ />
+    <glyph glyph-name="uniF120" unicode="&#xf120;" 
+ />
+    <glyph glyph-name="uniF121" unicode="&#xf121;" 
+ />
+    <glyph glyph-name="uniF122" unicode="&#xf122;" 
+ />
+    <glyph glyph-name="uniF123" unicode="&#xf123;" 
+ />
+    <glyph glyph-name="uniF124" unicode="&#xf124;" 
+ />
+    <glyph glyph-name="uniF125" unicode="&#xf125;" 
+ />
+    <glyph glyph-name="uniF126" unicode="&#xf126;" 
+ />
+    <glyph glyph-name="uniF127" unicode="&#xf127;" 
+ />
+    <glyph glyph-name="uniF129" unicode="&#xf129;" 
+ />
+    <glyph glyph-name="uniF12A" unicode="&#xf12a;" 
+ />
+    <glyph glyph-name="uniF12B" unicode="&#xf12b;" 
+ />
+    <glyph glyph-name="uniF12C" unicode="&#xf12c;" 
+ />
+    <glyph glyph-name="uniF12D" unicode="&#xf12d;" 
+ />
+    <glyph glyph-name="uniF12E" unicode="&#xf12e;" 
+ />
+    <glyph glyph-name="uniF130" unicode="&#xf130;" 
+ />
+    <glyph glyph-name="uniF131" unicode="&#xf131;" 
+ />
+    <glyph glyph-name="uniF132" unicode="&#xf132;" 
+ />
+    <glyph glyph-name="uniF133" unicode="&#xf133;" 
+ />
+    <glyph glyph-name="uniF134" unicode="&#xf134;" 
+ />
+    <glyph glyph-name="uniF135" unicode="&#xf135;" 
+ />
+    <glyph glyph-name="uniF136" unicode="&#xf136;" 
+ />
+    <glyph glyph-name="uniF137" unicode="&#xf137;" 
+ />
+    <glyph glyph-name="uniF138" unicode="&#xf138;" 
+ />
+    <glyph glyph-name="uniF139" unicode="&#xf139;" 
+ />
+    <glyph glyph-name="uniF13A" unicode="&#xf13a;" 
+ />
+    <glyph glyph-name="uniF13B" unicode="&#xf13b;" 
+ />
+    <glyph glyph-name="uniF13C" unicode="&#xf13c;" 
+ />
+    <glyph glyph-name="uniF13D" unicode="&#xf13d;" 
+ />
+    <glyph glyph-name="uniF13E" unicode="&#xf13e;" 
+ />
+    <glyph glyph-name="uniF140" unicode="&#xf140;" 
+ />
+    <glyph glyph-name="uniF141" unicode="&#xf141;" 
+ />
+    <glyph glyph-name="uniF142" unicode="&#xf142;" 
+ />
+    <glyph glyph-name="uniF143" unicode="&#xf143;" 
+ />
+    <glyph glyph-name="uniF144" unicode="&#xf144;" 
+ />
+    <glyph glyph-name="uniF145" unicode="&#xf145;" 
+ />
+    <glyph glyph-name="uniF146" unicode="&#xf146;" 
+ />
+    <glyph glyph-name="uniF147" unicode="&#xf147;" 
+ />
+    <glyph glyph-name="uniF148" unicode="&#xf148;" 
+ />
+    <glyph glyph-name="uniF149" unicode="&#xf149;" 
+ />
+    <glyph glyph-name="uniF14A" unicode="&#xf14a;" 
+ />
+    <glyph glyph-name="uniF14B" unicode="&#xf14b;" 
+ />
+    <glyph glyph-name="uniF14C" unicode="&#xf14c;" 
+ />
+    <glyph glyph-name="uniF14D" unicode="&#xf14d;" 
+ />
+    <glyph glyph-name="uniF14E" unicode="&#xf14e;" 
+ />
+    <glyph glyph-name="uniF150" unicode="&#xf150;" 
+ />
+    <glyph glyph-name="uniF151" unicode="&#xf151;" 
+ />
+    <glyph glyph-name="uniF152" unicode="&#xf152;" 
+ />
+    <glyph glyph-name="uniF153" unicode="&#xf153;" 
+ />
+    <glyph glyph-name="uniF154" unicode="&#xf154;" 
+ />
+    <glyph glyph-name="uniF155" unicode="&#xf155;" 
+ />
+    <glyph glyph-name="uniF156" unicode="&#xf156;" 
+ />
+    <glyph glyph-name="uniF157" unicode="&#xf157;" 
+ />
+    <glyph glyph-name="uniF158" unicode="&#xf158;" 
+ />
+    <glyph glyph-name="uniF159" unicode="&#xf159;" 
+ />
+    <glyph glyph-name="uniF15A" unicode="&#xf15a;" 
+ />
+    <glyph glyph-name="uniF15B" unicode="&#xf15b;" 
+ />
+    <glyph glyph-name="uniF15C" unicode="&#xf15c;" 
+ />
+    <glyph glyph-name="uniF15D" unicode="&#xf15d;" 
+ />
+    <glyph glyph-name="uniF15E" unicode="&#xf15e;" 
+ />
+    <glyph glyph-name="uniF160" unicode="&#xf160;" 
+ />
+    <glyph glyph-name="uniF161" unicode="&#xf161;" 
+ />
+    <glyph glyph-name="uniF162" unicode="&#xf162;" 
+ />
+    <glyph glyph-name="uniF163" unicode="&#xf163;" 
+ />
+    <glyph glyph-name="uniF164" unicode="&#xf164;" 
+ />
+    <glyph glyph-name="uniF165" unicode="&#xf165;" 
+ />
+    <glyph glyph-name="uniF166" unicode="&#xf166;" 
+ />
+    <glyph glyph-name="uniF167" unicode="&#xf167;" 
+ />
+    <glyph glyph-name="uniF168" unicode="&#xf168;" 
+ />
+    <glyph glyph-name="uniF169" unicode="&#xf169;" 
+ />
+    <glyph glyph-name="uniF16A" unicode="&#xf16a;" 
+ />
+    <glyph glyph-name="uniF16B" unicode="&#xf16b;" 
+ />
+    <glyph glyph-name="uniF16C" unicode="&#xf16c;" 
+ />
+    <glyph glyph-name="uniF16D" unicode="&#xf16d;" 
+ />
+    <glyph glyph-name="uniF16E" unicode="&#xf16e;" 
+ />
+    <glyph glyph-name="uniF170" unicode="&#xf170;" 
+ />
+    <glyph glyph-name="uniF171" unicode="&#xf171;" 
+ />
+    <glyph glyph-name="uniF172" unicode="&#xf172;" 
+ />
+    <glyph glyph-name="uniF173" unicode="&#xf173;" 
+ />
+    <glyph glyph-name="uniF174" unicode="&#xf174;" 
+ />
+    <glyph glyph-name="uniF175" unicode="&#xf175;" 
+ />
+    <glyph glyph-name="uniF176" unicode="&#xf176;" 
+ />
+    <glyph glyph-name="uniF177" unicode="&#xf177;" 
+ />
+    <glyph glyph-name="uniF178" unicode="&#xf178;" 
+ />
+    <glyph glyph-name="uniF179" unicode="&#xf179;" 
+ />
+    <glyph glyph-name="uniF17A" unicode="&#xf17a;" 
+ />
+    <glyph glyph-name="uniF17B" unicode="&#xf17b;" 
+ />
+    <glyph glyph-name="uniF17C" unicode="&#xf17c;" 
+ />
+    <glyph glyph-name="uniF17D" unicode="&#xf17d;" 
+ />
+    <glyph glyph-name="uniF17E" unicode="&#xf17e;" 
+ />
+    <glyph glyph-name="uniF180" unicode="&#xf180;" 
+ />
+    <glyph glyph-name="uniF181" unicode="&#xf181;" 
+ />
+    <glyph glyph-name="uniF182" unicode="&#xf182;" 
+ />
+    <glyph glyph-name="uniF183" unicode="&#xf183;" 
+ />
+    <glyph glyph-name="uniF184" unicode="&#xf184;" 
+ />
+    <glyph glyph-name="uniF185" unicode="&#xf185;" 
+ />
+    <glyph glyph-name="uniF186" unicode="&#xf186;" 
+ />
+    <glyph glyph-name="uniF187" unicode="&#xf187;" 
+ />
+    <glyph glyph-name="uniF188" unicode="&#xf188;" 
+ />
+    <glyph glyph-name="uniF189" unicode="&#xf189;" 
+ />
+    <glyph glyph-name="uniF18A" unicode="&#xf18a;" 
+ />
+    <glyph glyph-name="uniF18B" unicode="&#xf18b;" 
+ />
+    <glyph glyph-name="uniF18C" unicode="&#xf18c;" 
+ />
+    <glyph glyph-name="uniF18D" unicode="&#xf18d;" 
+ />
+    <glyph glyph-name="uniF18E" unicode="&#xf18e;" 
+ />
+    <glyph glyph-name="uniF190" unicode="&#xf190;" 
+ />
+    <glyph glyph-name="uniF191" unicode="&#xf191;" 
+ />
+    <glyph glyph-name="uniF192" unicode="&#xf192;" 
+ />
+    <glyph glyph-name="uniF193" unicode="&#xf193;" 
+ />
+    <glyph glyph-name="uniF194" unicode="&#xf194;" 
+ />
+    <glyph glyph-name="uniF195" unicode="&#xf195;" 
+ />
+    <glyph glyph-name="uniF196" unicode="&#xf196;" 
+ />
+    <glyph glyph-name="uniF197" unicode="&#xf197;" 
+ />
+    <glyph glyph-name="uniF198" unicode="&#xf198;" 
+ />
+    <glyph glyph-name="uniF199" unicode="&#xf199;" 
+ />
+    <glyph glyph-name="uniF19A" unicode="&#xf19a;" 
+ />
+    <glyph glyph-name="uniF19B" unicode="&#xf19b;" 
+ />
+    <glyph glyph-name="uniF19C" unicode="&#xf19c;" 
+ />
+    <glyph glyph-name="uniF19D" unicode="&#xf19d;" 
+ />
+    <glyph glyph-name="uniF19E" unicode="&#xf19e;" 
+ />
+    <glyph glyph-name="uniF1A0" unicode="&#xf1a0;" 
+ />
+    <glyph glyph-name="uniF1A1" unicode="&#xf1a1;" 
+ />
+    <glyph glyph-name="uniF1A2" unicode="&#xf1a2;" 
+ />
+    <glyph glyph-name="uniF1A3" unicode="&#xf1a3;" 
+ />
+    <glyph glyph-name="uniF1A4" unicode="&#xf1a4;" 
+ />
+    <glyph glyph-name="uniF1A5" unicode="&#xf1a5;" 
+ />
+    <glyph glyph-name="uniF1A6" unicode="&#xf1a6;" 
+ />
+    <glyph glyph-name="uniF1A7" unicode="&#xf1a7;" 
+ />
+    <glyph glyph-name="uniF1A8" unicode="&#xf1a8;" 
+ />
+    <glyph glyph-name="uniF1A9" unicode="&#xf1a9;" 
+ />
+    <glyph glyph-name="uniF1AA" unicode="&#xf1aa;" 
+ />
+    <glyph glyph-name="uniF1AB" unicode="&#xf1ab;" 
+ />
+    <glyph glyph-name="uniF1AC" unicode="&#xf1ac;" 
+ />
+    <glyph glyph-name="uniF1AD" unicode="&#xf1ad;" 
+ />
+    <glyph glyph-name="uniF1AE" unicode="&#xf1ae;" 
+ />
+    <glyph glyph-name="uniF1B0" unicode="&#xf1b0;" 
+ />
+    <glyph glyph-name="uniF1B1" unicode="&#xf1b1;" 
+ />
+    <glyph glyph-name="uniF1B2" unicode="&#xf1b2;" 
+ />
+    <glyph glyph-name="uniF1B3" unicode="&#xf1b3;" 
+ />
+    <glyph glyph-name="uniF1B4" unicode="&#xf1b4;" 
+ />
+    <glyph glyph-name="uniF1B5" unicode="&#xf1b5;" 
+ />
+    <glyph glyph-name="uniF1B6" unicode="&#xf1b6;" 
+ />
+    <glyph glyph-name="uniF1B7" unicode="&#xf1b7;" 
+ />
+    <glyph glyph-name="uniF1B8" unicode="&#xf1b8;" 
+ />
+    <glyph glyph-name="uniF1B9" unicode="&#xf1b9;" 
+ />
+    <glyph glyph-name="uniF1BA" unicode="&#xf1ba;" 
+ />
+    <glyph glyph-name="uniF1BB" unicode="&#xf1bb;" 
+ />
+    <glyph glyph-name="uniF1BC" unicode="&#xf1bc;" 
+ />
+    <glyph glyph-name="uniF1BD" unicode="&#xf1bd;" 
+ />
+    <glyph glyph-name="uniF1BE" unicode="&#xf1be;" 
+ />
+    <glyph glyph-name="uniF1C0" unicode="&#xf1c0;" 
+ />
+    <glyph glyph-name="uniF1C1" unicode="&#xf1c1;" 
+ />
+    <glyph glyph-name="uniF1C2" unicode="&#xf1c2;" 
+ />
+    <glyph glyph-name="uniF1C3" unicode="&#xf1c3;" 
+ />
+    <glyph glyph-name="uniF1C4" unicode="&#xf1c4;" 
+ />
+    <glyph glyph-name="uniF1C5" unicode="&#xf1c5;" 
+ />
+    <glyph glyph-name="uniF1C6" unicode="&#xf1c6;" 
+ />
+    <glyph glyph-name="uniF1C7" unicode="&#xf1c7;" 
+ />
+    <glyph glyph-name="uniF1C8" unicode="&#xf1c8;" 
+ />
+    <glyph glyph-name="uniF1C9" unicode="&#xf1c9;" 
+ />
+    <glyph glyph-name="uniF1CA" unicode="&#xf1ca;" 
+ />
+    <glyph glyph-name="uniF1CB" unicode="&#xf1cb;" 
+ />
+    <glyph glyph-name="uniF1CC" unicode="&#xf1cc;" 
+ />
+    <glyph glyph-name="uniF1CD" unicode="&#xf1cd;" 
+ />
+    <glyph glyph-name="uniF1CE" unicode="&#xf1ce;" 
+ />
+    <glyph glyph-name="uniF1D0" unicode="&#xf1d0;" 
+ />
+    <glyph glyph-name="uniF1D1" unicode="&#xf1d1;" 
+ />
+    <glyph glyph-name="uniF1D2" unicode="&#xf1d2;" 
+ />
+    <glyph glyph-name="uniF1D3" unicode="&#xf1d3;" 
+ />
+    <glyph glyph-name="uniF1D4" unicode="&#xf1d4;" 
+ />
+    <glyph glyph-name="uniF1D5" unicode="&#xf1d5;" 
+ />
+    <glyph glyph-name="uniF1D6" unicode="&#xf1d6;" 
+ />
+    <glyph glyph-name="uniF1D7" unicode="&#xf1d7;" 
+ />
+    <glyph glyph-name="uniF1D8" unicode="&#xf1d8;" 
+ />
+    <glyph glyph-name="uniF1D9" unicode="&#xf1d9;" 
+ />
+    <glyph glyph-name="uniF1DA" unicode="&#xf1da;" 
+ />
+    <glyph glyph-name="uniF1DB" unicode="&#xf1db;" 
+ />
+    <glyph glyph-name="uniF1DC" unicode="&#xf1dc;" 
+ />
+    <glyph glyph-name="uniF1DD" unicode="&#xf1dd;" 
+ />
+    <glyph glyph-name="uniF1DE" unicode="&#xf1de;" 
+ />
+    <glyph glyph-name="uniF1E0" unicode="&#xf1e0;" 
+ />
+    <glyph glyph-name="uniF1E1" unicode="&#xf1e1;" 
+ />
+    <glyph glyph-name="uniF1E2" unicode="&#xf1e2;" 
+ />
+    <glyph glyph-name="uniF1E3" unicode="&#xf1e3;" 
+ />
+    <glyph glyph-name="uniF1E4" unicode="&#xf1e4;" 
+ />
+    <glyph glyph-name="uniF1E5" unicode="&#xf1e5;" 
+ />
+    <glyph glyph-name="uniF1E6" unicode="&#xf1e6;" 
+ />
+    <glyph glyph-name="uniF1E7" unicode="&#xf1e7;" 
+ />
+    <glyph glyph-name="uniF1E8" unicode="&#xf1e8;" 
+ />
+    <glyph glyph-name="uniF1E9" unicode="&#xf1e9;" 
+ />
+    <glyph glyph-name="uniF1EA" unicode="&#xf1ea;" 
+ />
+    <glyph glyph-name="uniF1EB" unicode="&#xf1eb;" 
+ />
+    <glyph glyph-name="uniF1EC" unicode="&#xf1ec;" 
+ />
+    <glyph glyph-name="uniF1ED" unicode="&#xf1ed;" 
+ />
+    <glyph glyph-name="uniF1EE" unicode="&#xf1ee;" 
+ />
+    <glyph glyph-name="uniF1F0" unicode="&#xf1f0;" 
+ />
+    <glyph glyph-name="uniF1F1" unicode="&#xf1f1;" 
+ />
+    <glyph glyph-name="uniF1F2" unicode="&#xf1f2;" 
+ />
+    <glyph glyph-name="uniF1F3" unicode="&#xf1f3;" 
+ />
+    <glyph glyph-name="uniF1F4" unicode="&#xf1f4;" 
+ />
+    <glyph glyph-name="uniF1F5" unicode="&#xf1f5;" 
+ />
+    <glyph glyph-name="uniF1F6" unicode="&#xf1f6;" 
+ />
+    <glyph glyph-name="uniF1F7" unicode="&#xf1f7;" 
+ />
+    <glyph glyph-name="uniF1F8" unicode="&#xf1f8;" 
+ />
+    <glyph glyph-name="uniF1F9" unicode="&#xf1f9;" 
+ />
+    <glyph glyph-name="uniF1FA" unicode="&#xf1fa;" 
+ />
+    <glyph glyph-name="uniF1FB" unicode="&#xf1fb;" 
+ />
+    <glyph glyph-name="uniF1FC" unicode="&#xf1fc;" 
+ />
+    <glyph glyph-name="uniF1FD" unicode="&#xf1fd;" 
+ />
+    <glyph glyph-name="uniF1FE" unicode="&#xf1fe;" 
+ />
+    <glyph glyph-name="uniF200" unicode="&#xf200;" 
+ />
+    <glyph glyph-name="uniF201" unicode="&#xf201;" 
+ />
+    <glyph glyph-name="uniF202" unicode="&#xf202;" 
+ />
+    <glyph glyph-name="uniF203" unicode="&#xf203;" 
+ />
+    <glyph glyph-name="uniF204" unicode="&#xf204;" 
+ />
+    <glyph glyph-name="uniF205" unicode="&#xf205;" 
+ />
+    <glyph glyph-name="uniF206" unicode="&#xf206;" 
+ />
+    <glyph glyph-name="uniF207" unicode="&#xf207;" 
+ />
+    <glyph glyph-name="uniF208" unicode="&#xf208;" 
+ />
+    <glyph glyph-name="uniF209" unicode="&#xf209;" 
+ />
+    <glyph glyph-name="uniF20A" unicode="&#xf20a;" 
+ />
+    <glyph glyph-name="uniF20B" unicode="&#xf20b;" 
+ />
+    <glyph glyph-name="uniF20C" unicode="&#xf20c;" 
+ />
+    <glyph glyph-name="uniF20D" unicode="&#xf20d;" 
+ />
+    <glyph glyph-name="uniF20E" unicode="&#xf20e;" 
+ />
+    <glyph glyph-name="uniF210" unicode="&#xf210;" 
+ />
+    <glyph glyph-name="uniF211" unicode="&#xf211;" 
+ />
+    <glyph glyph-name="uniF212" unicode="&#xf212;" 
+ />
+    <glyph glyph-name="uniF213" unicode="&#xf213;" 
+ />
+    <glyph glyph-name="uniF214" unicode="&#xf214;" 
+ />
+    <glyph glyph-name="uniF215" unicode="&#xf215;" 
+ />
+    <glyph glyph-name="uniF216" unicode="&#xf216;" 
+ />
+    <glyph glyph-name="uniF217" unicode="&#xf217;" 
+ />
+    <glyph glyph-name="uniF218" unicode="&#xf218;" 
+ />
+    <glyph glyph-name="uniF219" unicode="&#xf219;" 
+ />
+    <glyph glyph-name="uniF21A" unicode="&#xf21a;" 
+ />
+    <glyph glyph-name="uniF21B" unicode="&#xf21b;" 
+ />
+    <glyph glyph-name="uniF21C" unicode="&#xf21c;" 
+ />
+    <glyph glyph-name="uniF21D" unicode="&#xf21d;" 
+ />
+    <glyph glyph-name="uniF21E" unicode="&#xf21e;" 
+ />
+    <glyph glyph-name="uniF221" unicode="&#xf221;" 
+ />
+    <glyph glyph-name="uniF222" unicode="&#xf222;" 
+ />
+    <glyph glyph-name="uniF223" unicode="&#xf223;" 
+ />
+    <glyph glyph-name="uniF224" unicode="&#xf224;" 
+ />
+    <glyph glyph-name="uniF225" unicode="&#xf225;" 
+ />
+    <glyph glyph-name="uniF226" unicode="&#xf226;" 
+ />
+    <glyph glyph-name="uniF227" unicode="&#xf227;" 
+ />
+    <glyph glyph-name="uniF228" unicode="&#xf228;" 
+ />
+    <glyph glyph-name="uniF229" unicode="&#xf229;" 
+ />
+    <glyph glyph-name="uniF22A" unicode="&#xf22a;" 
+ />
+    <glyph glyph-name="uniF22B" unicode="&#xf22b;" 
+ />
+    <glyph glyph-name="uniF22C" unicode="&#xf22c;" 
+ />
+    <glyph glyph-name="uniF22D" unicode="&#xf22d;" 
+ />
+    <glyph glyph-name="uniF22E" unicode="&#xf22e;" 
+ />
+    <glyph glyph-name="uniF22F" unicode="&#xf22f;" 
+ />
+    <glyph glyph-name="uniF230" unicode="&#xf230;" 
+ />
+    <glyph glyph-name="uniF231" unicode="&#xf231;" 
+ />
+    <glyph glyph-name="uniF232" unicode="&#xf232;" 
+ />
+    <glyph glyph-name="uniF233" unicode="&#xf233;" 
+ />
+    <glyph glyph-name="uniF234" unicode="&#xf234;" 
+ />
+    <glyph glyph-name="uniF235" unicode="&#xf235;" 
+ />
+    <glyph glyph-name="uniF236" unicode="&#xf236;" 
+ />
+    <glyph glyph-name="uniF237" unicode="&#xf237;" 
+ />
+    <glyph glyph-name="uniF238" unicode="&#xf238;" 
+ />
+    <glyph glyph-name="uniF239" unicode="&#xf239;" 
+ />
+    <glyph glyph-name="uniF23A" unicode="&#xf23a;" 
+ />
+    <glyph glyph-name="uniF23B" unicode="&#xf23b;" 
+ />
+    <glyph glyph-name="uniF23C" unicode="&#xf23c;" 
+ />
+    <glyph glyph-name="uniF23D" unicode="&#xf23d;" 
+ />
+    <glyph glyph-name="uniF23E" unicode="&#xf23e;" 
+ />
+    <glyph glyph-name="uniF240" unicode="&#xf240;" 
+ />
+    <glyph glyph-name="uniF241" unicode="&#xf241;" 
+ />
+    <glyph glyph-name="uniF242" unicode="&#xf242;" 
+ />
+    <glyph glyph-name="uniF243" unicode="&#xf243;" 
+ />
+    <glyph glyph-name="uniF244" unicode="&#xf244;" 
+ />
+    <glyph glyph-name="uniF245" unicode="&#xf245;" 
+ />
+    <glyph glyph-name="uniF246" unicode="&#xf246;" 
+ />
+    <glyph glyph-name="uniF247" unicode="&#xf247;" 
+ />
+    <glyph glyph-name="uniF248" unicode="&#xf248;" 
+ />
+    <glyph glyph-name="uniF249" unicode="&#xf249;" 
+ />
+    <glyph glyph-name="uniF24A" unicode="&#xf24a;" 
+ />
+    <glyph glyph-name="uniF24B" unicode="&#xf24b;" 
+ />
+    <glyph glyph-name="uniF24C" unicode="&#xf24c;" 
+ />
+    <glyph glyph-name="uniF24D" unicode="&#xf24d;" 
+ />
+    <glyph glyph-name="uniF24E" unicode="&#xf24e;" 
+ />
+    <glyph glyph-name="uniF250" unicode="&#xf250;" 
+ />
+    <glyph glyph-name="uniF251" unicode="&#xf251;" 
+ />
+    <glyph glyph-name="uniF252" unicode="&#xf252;" 
+ />
+    <glyph glyph-name="uniF253" unicode="&#xf253;" 
+ />
+    <glyph glyph-name="uniF254" unicode="&#xf254;" 
+ />
+    <glyph glyph-name="uniF255" unicode="&#xf255;" 
+ />
+    <glyph glyph-name="uniF256" unicode="&#xf256;" 
+ />
+    <glyph glyph-name="uniF257" unicode="&#xf257;" 
+ />
+    <glyph glyph-name="uniF258" unicode="&#xf258;" 
+ />
+    <glyph glyph-name="uniF259" unicode="&#xf259;" 
+ />
+    <glyph glyph-name="uniF25A" unicode="&#xf25a;" 
+ />
+    <glyph glyph-name="uniF25B" unicode="&#xf25b;" 
+ />
+    <glyph glyph-name="uniF25C" unicode="&#xf25c;" 
+ />
+    <glyph glyph-name="uniF25D" unicode="&#xf25d;" 
+ />
+    <glyph glyph-name="uniF25E" unicode="&#xf25e;" 
+ />
+    <glyph glyph-name="uniF260" unicode="&#xf260;" 
+ />
+    <glyph glyph-name="uniF261" unicode="&#xf261;" 
+ />
+    <glyph glyph-name="uniF262" unicode="&#xf262;" 
+ />
+    <glyph glyph-name="uniF263" unicode="&#xf263;" 
+ />
+    <glyph glyph-name="uniF264" unicode="&#xf264;" 
+ />
+    <glyph glyph-name="uniF265" unicode="&#xf265;" 
+ />
+    <glyph glyph-name="uniF266" unicode="&#xf266;" 
+ />
+    <glyph glyph-name="uniF267" unicode="&#xf267;" 
+ />
+    <glyph glyph-name="uniF268" unicode="&#xf268;" 
+ />
+    <glyph glyph-name="uniF269" unicode="&#xf269;" 
+ />
+    <glyph glyph-name="uniF26A" unicode="&#xf26a;" 
+ />
+    <glyph glyph-name="uniF26B" unicode="&#xf26b;" 
+ />
+    <glyph glyph-name="uniF26C" unicode="&#xf26c;" 
+ />
+    <glyph glyph-name="uniF26D" unicode="&#xf26d;" 
+ />
+    <glyph glyph-name="uniF26E" unicode="&#xf26e;" 
+ />
+    <glyph glyph-name="uniF270" unicode="&#xf270;" 
+ />
+    <glyph glyph-name="uniF271" unicode="&#xf271;" 
+ />
+    <glyph glyph-name="uniF272" unicode="&#xf272;" 
+ />
+    <glyph glyph-name="uniF273" unicode="&#xf273;" 
+ />
+    <glyph glyph-name="uniF274" unicode="&#xf274;" 
+ />
+    <glyph glyph-name="uniF275" unicode="&#xf275;" 
+ />
+    <glyph glyph-name="uniF276" unicode="&#xf276;" 
+ />
+    <glyph glyph-name="uniF277" unicode="&#xf277;" 
+ />
+    <glyph glyph-name="uniF278" unicode="&#xf278;" 
+ />
+    <glyph glyph-name="uniF279" unicode="&#xf279;" 
+ />
+    <glyph glyph-name="uniF27A" unicode="&#xf27a;" 
+ />
+    <glyph glyph-name="uniF27B" unicode="&#xf27b;" 
+ />
+    <glyph glyph-name="uniF27C" unicode="&#xf27c;" 
+ />
+    <glyph glyph-name="uniF27D" unicode="&#xf27d;" 
+ />
+    <glyph glyph-name="uniF27E" unicode="&#xf27e;" 
+ />
+    <glyph glyph-name="uniF280" unicode="&#xf280;" 
+ />
+    <glyph glyph-name="uniF281" unicode="&#xf281;" 
+ />
+    <glyph glyph-name="uniF282" unicode="&#xf282;" 
+ />
+    <glyph glyph-name="uniF283" unicode="&#xf283;" 
+ />
+    <glyph glyph-name="uniF284" unicode="&#xf284;" 
+ />
+    <glyph glyph-name="uniF285" unicode="&#xf285;" 
+ />
+    <glyph glyph-name="uniF286" unicode="&#xf286;" 
+ />
+    <glyph glyph-name="uniF287" unicode="&#xf287;" 
+ />
+    <glyph glyph-name="uniF288" unicode="&#xf288;" 
+ />
+    <glyph glyph-name="uniF289" unicode="&#xf289;" 
+ />
+    <glyph glyph-name="uniF28A" unicode="&#xf28a;" 
+ />
+    <glyph glyph-name="uniF28B" unicode="&#xf28b;" 
+ />
+    <glyph glyph-name="uniF28C" unicode="&#xf28c;" 
+ />
+    <glyph glyph-name="uniF28D" unicode="&#xf28d;" 
+ />
+    <glyph glyph-name="uniF28E" unicode="&#xf28e;" 
+ />
+    <glyph glyph-name="uniF290" unicode="&#xf290;" 
+ />
+    <glyph glyph-name="uniF291" unicode="&#xf291;" 
+ />
+    <glyph glyph-name="uniF292" unicode="&#xf292;" 
+ />
+    <glyph glyph-name="uniF293" unicode="&#xf293;" 
+ />
+    <glyph glyph-name="uniF294" unicode="&#xf294;" 
+ />
+    <glyph glyph-name="uniF295" unicode="&#xf295;" 
+ />
+    <glyph glyph-name="uniF296" unicode="&#xf296;" 
+ />
+    <glyph glyph-name="uniF297" unicode="&#xf297;" 
+ />
+    <glyph glyph-name="uniF298" unicode="&#xf298;" 
+ />
+    <glyph glyph-name="uniF299" unicode="&#xf299;" 
+ />
+    <glyph glyph-name="uniF29A" unicode="&#xf29a;" 
+ />
+    <glyph glyph-name="uniF29B" unicode="&#xf29b;" 
+ />
+    <glyph glyph-name="uniF29C" unicode="&#xf29c;" 
+ />
+    <glyph glyph-name="uniF29D" unicode="&#xf29d;" 
+ />
+    <glyph glyph-name="uniF29E" unicode="&#xf29e;" 
+ />
+    <glyph glyph-name="uniF2A0" unicode="&#xf2a0;" 
+ />
+    <glyph glyph-name="uniF2A1" unicode="&#xf2a1;" 
+ />
+    <glyph glyph-name="uniF2A2" unicode="&#xf2a2;" 
+ />
+    <glyph glyph-name="uniF2A3" unicode="&#xf2a3;" 
+ />
+    <glyph glyph-name="uniF2A4" unicode="&#xf2a4;" 
+ />
+    <glyph glyph-name="uniF2A5" unicode="&#xf2a5;" 
+ />
+    <glyph glyph-name="uniF2A6" unicode="&#xf2a6;" 
+ />
+    <glyph glyph-name="uniF2A7" unicode="&#xf2a7;" 
+ />
+    <glyph glyph-name="uniF2A8" unicode="&#xf2a8;" 
+ />
+    <glyph glyph-name="uniF2A9" unicode="&#xf2a9;" 
+ />
+    <glyph glyph-name="uniF2AA" unicode="&#xf2aa;" 
+ />
+    <glyph glyph-name="uniF2AB" unicode="&#xf2ab;" 
+ />
+    <glyph glyph-name="uniF2AC" unicode="&#xf2ac;" 
+ />
+    <glyph glyph-name="uniF2AD" unicode="&#xf2ad;" 
+ />
+    <glyph glyph-name="uniF2AE" unicode="&#xf2ae;" 
+ />
+    <glyph glyph-name="uniF2B0" unicode="&#xf2b0;" 
+ />
+    <glyph glyph-name="uniF2B1" unicode="&#xf2b1;" 
+ />
+    <glyph glyph-name="uniF2B2" unicode="&#xf2b2;" 
+ />
+    <glyph glyph-name="uniF2B3" unicode="&#xf2b3;" 
+ />
+    <glyph glyph-name="uniF2B4" unicode="&#xf2b4;" 
+ />
+    <glyph glyph-name="uniF2B5" unicode="&#xf2b5;" 
+ />
+    <glyph glyph-name="uniF2B6" unicode="&#xf2b6;" 
+ />
+    <glyph glyph-name="uniF2B7" unicode="&#xf2b7;" 
+ />
+    <glyph glyph-name="uniF2B8" unicode="&#xf2b8;" 
+ />
+    <glyph glyph-name="uniF2B9" unicode="&#xf2b9;" 
+ />
+    <glyph glyph-name="uniF2BA" unicode="&#xf2ba;" 
+ />
+    <glyph glyph-name="uniF2BB" unicode="&#xf2bb;" 
+ />
+    <glyph glyph-name="uniF2BC" unicode="&#xf2bc;" 
+ />
+    <glyph glyph-name="uniF2BD" unicode="&#xf2bd;" 
+ />
+    <glyph glyph-name="uniF2BE" unicode="&#xf2be;" 
+ />
+  </font>
+</defs></svg>
