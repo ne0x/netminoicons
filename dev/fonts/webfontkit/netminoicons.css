@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'NetminoIcons';
-    src: url('netminoicons-webfont.eot');
-    src: url('netminoicons-webfont.eot?#iefix') format('embedded-opentype'),
-         url('netminoicons-webfont.woff2') format('woff2'),
-         url('netminoicons-webfont.woff') format('woff'),
-         url('netminoicons-webfont.ttf') format('truetype'),
-         url('netminoicons-webfont.svg#NetminoIcons') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'NetminoIcons';
+  src: url('netminoicons-webfont.eot');
+  src: url('netminoicons-webfont.woff2') format('woff2'),
+       url('netminoicons-webfont.woff') format('woff'),
+       url('netminoicons-webfont.ttf') format('truetype'),
+       url('netminoicons-webfont.svg#NetminoIcons') format('svg'),
+       url('netminoicons-webfont.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
 }
+
