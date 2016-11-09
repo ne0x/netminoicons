@@ -276,6 +276,15 @@
 .ni-user-lines:before {
   content: ""; }
 
+.ni-out:before {
+  content: ""; }
+
+.ni-megaphone:before {
+  content: ""; }
+
+.ni-logout:before {
+  content: ""; }
+
 .sr-only {
   position: absolute;
   width: 1px;
